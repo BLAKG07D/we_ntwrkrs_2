@@ -11,7 +11,7 @@ Powered by DiscordJS, this bot will handle general utilities of the NTWRKRS serv
  
 👨🏿‍💻 👩‍💻 🌐 Contribute to the [NTWRKRS Collective](https://github.com/NTWRKRS)
 
-🗣 Join [NTWRKRS DISCORD SERVER] (https://discord.gg/6wekPBBTQW) and come build and chat with the team.
+🗣 Join [NTWRKRS DISCORD SERVER](https://discord.gg/6wekPBBTQW) and come build and chat with the team.
 
 🆘️ Please list any suggestion or any issues in the NTWRKRS discussion. 
 
